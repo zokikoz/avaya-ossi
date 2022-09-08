@@ -1,0 +1,10 @@
+{
+    "host": "avaya01",
+    "ip": "10.0.0.1",
+    "port": 22,
+    "timeout": 0.4,
+    "user": "user",
+    "password": "password",
+    "siggrps": [1, 2, 3, 4, 5],
+    "trunkgrps": [[1,1,2,3,4,5],[305,305,306,307,308]]
+}
